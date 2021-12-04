@@ -1,0 +1,38 @@
+h1{
+    color:aquamarine;
+    border:solid;
+
+}
+
+h2{
+    color:burlywood;
+    border:crimson;
+}
+
+.header{
+background-color:darkgoldenrod;
+display:flex ;
+justify-content: space-between;
+
+}
+
+.menu{
+background-color: chocolate;
+
+}
+
+.grid{
+display: flex;
+justify-content:space-evenly;
+flex-wrap: wrap;
+background-color: coral;
+
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color: cornflowerblue;
+}
